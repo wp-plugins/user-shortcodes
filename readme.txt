@@ -26,6 +26,11 @@ The plugin includes 6 shortcodes:
 <code>[currentuser_lastname]</code> - Display the current user last name<br>
 <code>[currentuser_id]</code> - Display the current user numeric ID<br>
 
+<h4>Premium Support</h4>
+The <a href="http://happyplugins.com">HappyPlugins</a> team does not provide support for User Shortcodes plugin on the WordPress.org forums.<br>
+One on one email support is available to people who bought the premium support services.
+
+
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
