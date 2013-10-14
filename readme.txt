@@ -19,12 +19,12 @@ The plugin check if a user is logged in, if no user is currently logged in all o
 
 The plugin includes 6 shortcodes:
 
-<code>[currentuser_username]</code> - Display the current user name<br>
-<code>[currentuser_useremail]</code> - Display the current user email<br>
-<code>[currentuser_displayname]</code> - Display the current user display name<br>
-<code>[currentuser_firstname]</code> - Display the current user first name<br>
-<code>[currentuser_lastname]</code> - Display the current user last name<br>
-<code>[currentuser_id]</code> - Display the current user numeric ID<br>
+<strong>[currentuser_username]</strong> - Display the current user name<br>
+<strong>[currentuser_useremail]</strong> - Display the current user email<br>
+<strong>[currentuser_displayname]</strong> - Display the current user display name<br>
+<strong>[currentuser_firstname]</strong> - Display the current user first name<br>
+<strong>[currentuser_lastname]</strong> - Display the current user last name<br>
+<strong>[currentuser_id]</strong> - Display the current user numeric ID<br>
 
 <h4>Premium Support</h4>
 The <a href="http://happyplugins.com">HappyPlugins</a> team does not provide support for User Shortcodes plugin on the WordPress.org forums.<br>
