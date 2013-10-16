@@ -37,9 +37,8 @@ One on one email support is available to people who bought the premium support s
 
 == Screenshots ==
 
-1. Edit post with User Shortcodes
-2. Front end screen of User Shortcdoes
-
+Check the following page for screenshots:
+http://happyplugins.com/user-shortcodes
 
 
 == Frequently Asked Questions ==
