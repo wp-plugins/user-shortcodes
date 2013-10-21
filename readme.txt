@@ -27,7 +27,7 @@ The plugin includes 6 shortcodes:
 <strong>[currentuser_id]</strong> - Display the current user numeric ID<br>
 <br>
 
-This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>your can find more plugins and coding tutorials our our websites.<br>
+This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
 
 
 == Installation ==
