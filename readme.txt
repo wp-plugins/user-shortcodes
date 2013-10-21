@@ -28,7 +28,9 @@ The plugin includes 6 shortcodes:
 
 <h4>Premium Support</h4>
 The <a href="http://happyplugins.com">HappyPlugins</a> team does not provide support for User Shortcodes plugin on the WordPress.org forums.<br>
-One on one email support is available to people who bought the premium support services.
+One on one email support is available to people who bought the premium support services.<br/>
+
+This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>your can find more plugins and coding tutorials our our websites.<br/>
 
 
 == Installation ==
