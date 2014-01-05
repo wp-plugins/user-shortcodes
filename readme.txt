@@ -51,7 +51,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the User Shortcodes? = 
-You can found more information at: <a href="http://happyplugins.com/user-shortcodes">HappyPlugin - User Shortcodes</a>
+You can found more information at: <a href="http://blog.happyplugins.com/user-shortcodes">HappyPlugin - User Shortcodes</a>
 
 
 == Changelog ==
