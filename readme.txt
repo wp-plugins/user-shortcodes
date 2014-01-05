@@ -3,7 +3,7 @@ Contributors: happyplugins
 Tags: user information, user shortcodes, user
 Donate link: http://happyplugins.com
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.6
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,16 +19,12 @@ The plugin check if a user is logged in, if no user is currently logged in all o
 
 The plugin includes 6 shortcodes:
 
-<strong>[currentuser_username]</strong> - Display the current user name<br>
-<strong>[currentuser_useremail]</strong> - Display the current user email<br>
-<strong>[currentuser_displayname]</strong> - Display the current user display name<br>
-<strong>[currentuser_firstname]</strong> - Display the current user first name<br>
-<strong>[currentuser_lastname]</strong> - Display the current user last name<br>
-<strong>[currentuser_id]</strong> - Display the current user numeric ID<br>
-<br>
-
-This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
-
+<code>[currentuser_username]</code> - Display the current user name<br>
+<code>[currentuser_useremail]</code> - Display the current user email<br>
+<code>[currentuser_displayname]</code> - Display the current user display name<br>
+<code>[currentuser_firstname]</code> - Display the current user first name<br>
+<code>[currentuser_lastname]</code> - Display the current user last name<br>
+<code>[currentuser_id]</code> - Display the current user numeric ID<br>
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.
@@ -36,8 +32,9 @@ This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>
 
 == Screenshots ==
 
-Check the following page for screenshots:
-http://happyplugins.com/user-shortcodes
+1. Edit post with User Shortcodes
+2. Front end screen of User Shortcdoes
+
 
 
 == Frequently Asked Questions ==
@@ -54,7 +51,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the User Shortcodes? = 
-You can found more information at: <a href="http://happyplugins.com/user-shortcodes">HappyPlugin - User Shortcodes</a>
+You can found more information at: <a href="http://blog.happyplugins.com/user-shortcodes">HappyPlugin - User Shortcodes</a>
 
 
 == Changelog ==
