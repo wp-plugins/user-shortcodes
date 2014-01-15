@@ -1,7 +1,7 @@
 === User Shortcodes ===
 Contributors: happyplugins
 Tags: user information, user shortcodes, user
-Donate link: http://happyplugins.com
+Donate link: http://happyplugins.com/downloads/user-shortcodes/
 Requires at least: 3.0.1
 Tested up to: 3.6
 Stable tag: 1.0.0
@@ -35,6 +35,8 @@ The plugin includes 6 shortcodes:
 1. Edit post with User Shortcodes
 2. Front end screen of User Shortcdoes
 
+http://happyplugins.com/downloads/user-shortcodes/
+
 
 
 == Frequently Asked Questions ==
@@ -51,7 +53,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the User Shortcodes? = 
-You can found more information at: <a href="http://blog.happyplugins.com/user-shortcodes">HappyPlugin - User Shortcodes</a>
+You can found more information at: <a href="http://happyplugins.com/downloads/user-shortcodes/">HappyPlugin - User Shortcodes</a>
 
 
 == Changelog ==
