@@ -3,8 +3,8 @@ Contributors: happyplugins
 Tags: user information, user shortcodes, user
 Donate link: http://happyplugins.com/downloads/user-shortcodes/
 Requires at least: 3.0.1
-Tested up to: 3.6
-Stable tag: 1.0.0
+Tested up to: 4.1.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,12 +19,31 @@ The plugin check if a user is logged in, if no user is currently logged in all o
 
 The plugin includes 6 shortcodes:
 
-<code>[currentuser_username]</code> - Display the current user name<br>
+<pre>[currentuser_username]</pre> - Display the current user name<br>
 <code>[currentuser_useremail]</code> - Display the current user email<br>
 <code>[currentuser_displayname]</code> - Display the current user display name<br>
 <code>[currentuser_firstname]</code> - Display the current user first name<br>
-<code>[currentuser_lastname]</code> - Display the current user last name<br>
+<code>[currentuser_lastname]</code> - Display the current user last name
 <code>[currentuser_id]</code> - Display the current user numeric ID<br>
+
+<h4>HappyPlugins - eCommerce Plugins for WordPress</h4>
+
+<a href="http://happyplugins.com">HappyPlugins</a> company develop premium WordPress & Guides for eCommerce websites.<br>
+
+Our Plugins includes <a href="http://happyplugins.com/?download_category=wishlist-member" alt="Wishlist Member Dedicated Plugins" title="Wishlist Member Dedicated Plugins">Wishlist Member Dedicated Plugins</a>, <a href="http://happyplugins.com/downloads/category/easy-digital-downloads/" alt="Easy Digital Downloads Dedicated Plugins" title="Easy Digital Downloads Dedicated Plugins">Easy Digital Downloads Dedicated Plugins</a><br>
+
+Currently HappyPlugins company the number one 3rd party plugins developer for the Wishlist Member Membership Platform.
+
+<h4>Further Reading</h4>
+<ul>
+<li>The <a href="http://happyplugins.com/downloads/user-shortcodes/">User Shortcodes</a> official homepage.</li>
+<li>More <a href="http://happyplugins.com">WordPress Plugins</a> by HappyPlugins</li>
+<li>Build a Membership site that Convert with <a href="http://membershipinsiders.com">Membership Isiders</a>.</li>
+<li>Follow HappyPlugins on <a href="https://www.facebook.com/happyplugins">Facebook</a> & <a href="https://twitter.com/HappyPlugins">Twitter</a></li>
+</ul>
+
+<a href="http://discoverwp.co">DiscoverWP - Find & Compare WordPress Plugins</a>
+DiscoverWP was created in thing in mind and that to help every WordPress user to find the right product for his needs.
 
 == Installation ==
 1. Upload the plugin to "wp-content/plugins/" directory.

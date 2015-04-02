@@ -4,7 +4,7 @@ Plugin Name: User Shortcodes
 Plugin URI: http://happyplugins.com/user-shortcodes
 Description: Display user information using shortcodes
 Author: HappyPlugins
-Version: 1.0.0
+Version: 1.0.1
 License: GPL version 2 or any later version
 Author URI: http://happyplugins.com
 Text Domain: user-shortcodes
